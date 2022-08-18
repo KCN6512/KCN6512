@@ -10,4 +10,5 @@ Python/Django
 Git
 PostgreSQL
 
-https://www.codewars.com/users/KCN6512/badges/large
+[codewars](https://www.example.com](https://www.codewars.com/users/KCN6512/badges/large))
+
