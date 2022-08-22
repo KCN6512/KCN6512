@@ -10,4 +10,4 @@ Python/Django
 Git
 PostgreSQL
 
-
+Активно ищу работу джуном/стажером
