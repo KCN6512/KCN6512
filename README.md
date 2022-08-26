@@ -6,7 +6,7 @@ Python/Django программист  Junior/стажер
 Окончил Ростовский-на-дону колледж связи и информатики в 2021 году
 
 Stack:
-Python/Django
+Python/Django/DjangoRestFramework
 Git
 PostgreSQL
 
