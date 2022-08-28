@@ -9,5 +9,6 @@ Stack:
 Python/Django/DjangoRestFramework
 Git
 PostgreSQL
+PostMan
 
 Активно ищу работу джуном/стажером
