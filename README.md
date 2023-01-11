@@ -9,4 +9,4 @@ Django/DjangoRestFramework
 Git
 PostgreSQL
 Docker
-PostMan
+
